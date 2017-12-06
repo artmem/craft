@@ -13,7 +13,6 @@ use mikehaertl\shellcommand\Command as ShellCommand;
 const INSTALL_PLUGINS = [
     'eager-beaver',
     'image-optimize',
-    'minify',
     'typogrify',
 ];
 const CRAFT_SCRIPTS_SETUP = [
